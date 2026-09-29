@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "id": "60159088-c460-415f-b647-8578ffd9f2ca",
+  "repository": "timeistoken/example-tig-20260929-0637-601590",
+  "sourceCommit": "3206e2e5aaba8258ed13f50bd07c5d9d7ccb3c77",
+  "request": {
+    "title": "코딩 테스트를 위한 알고리즘 문제 3개 만들어줄래",
+    "requestCategory": "test",
+    "scope": "코딩 테스트를 위한 알고리즘 문제 3개 만들어줄래?",
+    "acceptanceChecks": [
+      "코딩 테스트를 위한 알고리즘 문제 3개 만들어줄래?"
+    ],
+    "aiRequirement": {
+      "provider": "claude",
+      "model": "opus",
+      "effort": "high",
+      "source": "declared"
+    },
+    "rewardTig": "300",
+    "executionDeadlineAt": "2026-09-30T06:37:44.767Z",
+    "originalRequest": "코딩 테스트를 위한 알고리즘 문제 3개 만들어줄래?",
+    "context": "Project folder: example. Git: branch master at 3206e2e; 0 changed and 0 new file(s) not yet committed. Tracked files: none.",
+    "completedWork": "Recent commits: \"Initialize project for Tokenisgold\".",
+    "constraints": [],
+    "setupSteps": [
+      "No install command was found in the project; follow its README."
+    ],
+    "testSteps": [
+      "No test command was found in the project; review the changed files against the acceptance checks."
+    ]
+  },
+  "layout": "tree"
+}
